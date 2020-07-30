@@ -1,1 +1,1 @@
-Hi this is master file
+i  am file master3.txt created in b1 branch
