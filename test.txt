@@ -1,1 +1,5 @@
+hi have added this line in master to cause merge conflict.
+ again added text in master for merge conflict
 Hi this is rebase operation
+Operating from b7 branch
+
